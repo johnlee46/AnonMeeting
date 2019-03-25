@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.comp3617.anonmeeting.MainActivity">
+    <item android:title="set marker" android:orderInCategory="100" android:id="@+id/setMarker"
+          app:showAsAction="always"/>
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_settings"
+          android:orderInCategory="101"
+          app:showAsAction="never"/>
+    <item android:title="@string/common_google_play_services_update_button" android:orderInCategory="102"
+          android:id="@+id/update"/>
+    <item android:title="Item" android:orderInCategory="103" android:id="@+id/jsonData"/>
+</menu>

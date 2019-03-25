@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50326110878",
+    "firebase_url": "https://anonmeeting-f5fa0.firebaseio.com",
+    "project_id": "anonmeeting-f5fa0",
+    "storage_bucket": "anonmeeting-f5fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50326110878:android:84bbb57c811917b9",
+        "android_client_info": {
+          "package_name": "com.comp3617.anonmeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50326110878-5v3mms8g59gjebqt2h5l99r3ikl8o7nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comp3617.anonmeeting",
+            "certificate_hash": "e668421461f522a5c08dfea5b67027716dd0b2b8"
+          }
+        },
+        {
+          "client_id": "50326110878-lht55brtadv90c4s092q0vu1i9e3t4nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4tEZtUYTwK2XWTpzcfIjJKmLZigU5Ehg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50326110878-lht55brtadv90c4s092q0vu1i9e3t4nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
